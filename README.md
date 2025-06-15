@@ -19,7 +19,9 @@ MY FIRST PROGRAM USING HTML FEATURES.
   <br>
   <hr>
 <b> USING BOLD TAG HERE.</b>
-<s> USING STRIKETHROUGH</s>
+<s> 
+  <br>
+     USING STRIKETHROUGH</s>
   <br>
  <pre>
   <li>
