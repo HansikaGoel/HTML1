@@ -40,6 +40,6 @@ The use of anchor tag-
 <br>
 <a href= "https://www.google.com/">GOOGLE</a>
 <br>
-<a href= "https://www.amazon.in/">Amazon</a>
+<a href= "https://www.amazon.in/">AMAZON</a>
 </body>
 </html>
