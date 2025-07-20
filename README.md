@@ -35,6 +35,9 @@ MY FIRST PROGRAM USING HTML FEATURES.
     <li>  Pear </li>
 </ol>
 </pre>
-  
+  <image scr="https://images.app.goo.gl/aDLqDMfjiVk32x6C8"
+alt="HTML"
+height="300px">
+width="300px"/>
 </body>
 </html>
