@@ -35,6 +35,9 @@ MY FIRST PROGRAM USING HTML FEATURES.
     <li>  Pear </li>
 </ol>
 </pre>
-<a href= "https://www.google.com/">GOOGLE<a>
+<p>
+The use of anchor tag-
+<a href= "https://www.google.com/">GOOGLE</a>
+<a href= "https://www.amazon.in/">Amazon</a>
 </body>
 </html>
