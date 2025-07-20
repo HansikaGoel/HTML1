@@ -24,12 +24,17 @@ MY FIRST PROGRAM USING HTML FEATURES.
      USING STRIKETHROUGH</s>
   <br>
  <pre>
-  <li>
     FRUITS IN BASKET ARE-
-
-    
+<ol>
+    <li>  Apple </li>
+    <li>  Banana </li>
+    <li>  Orange </li>
+    <li>  Mango </li>
+    <li>  Pomegranate </li>
+    <li>  Papaya </li>
+    <li>  Pear </li>
+</ol>
 </pre>
   
-</li>
 </body>
 </html>
