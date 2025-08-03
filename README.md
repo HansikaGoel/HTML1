@@ -24,7 +24,9 @@ MY FIRST PROGRAM USING HTML FEATURES.
      USING STRIKETHROUGH</s>
   <br>
  <pre>
+<u>
     FRUITS IN BASKET ARE-
+</u>
 <ol>
     <li>  Apple </li>
     <li>  Banana </li>
