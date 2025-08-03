@@ -44,8 +44,7 @@ The use of anchor tag-
 <br>
 <hr>
 <i>
-<u>Thank you</u>
-</i>
+<u>Thank you</u></i>
 <hr>
 </body>
 </html>
