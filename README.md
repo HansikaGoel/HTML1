@@ -43,10 +43,8 @@ The use of anchor tag-
 <a href= "https://www.amazon.in/">AMAZON</a>
 <br>
 <hr>
-<i> 
-<u>
-Thank you
-</u>
+<i>
+<u>Thank you</u>
 </i>
 <hr>
 </body>
