@@ -24,9 +24,7 @@ MY FIRST PROGRAM USING HTML FEATURES.
      USING STRIKETHROUGH</s>
   <br>
  <pre>
-<u>
     FRUITS IN BASKET ARE-
-</u>
 <ol>
     <li>  Apple </li>
     <li>  Banana </li>
@@ -45,7 +43,11 @@ The use of anchor tag-
 <a href= "https://www.amazon.in/">AMAZON</a>
 <br>
 <hr>
-<i> Thank you</i>
+<i> 
+<u>
+Thank you
+</u>
+</i>
 <hr>
 </body>
 </html>
